@@ -9,5 +9,5 @@
 | RDP | xrdp / RustDesk | https://doc.ubuntu-fr.org/xrdp |
 | Certificate enrollment | CEP/CES openSUSE (todo: TPM attestation) | https://github.com/openSUSE/cepces |
 | SRP / AppLocker | fapolicyd / AppArmor | |
-| Smartcard login (PKINIT) | todo |
+| Smartcard login (PKINIT) | wapt package | https://wapt.tranquil.it/store/fr/tis-sssd-pkinit
 | Printer connect (non-admin) | not found |
