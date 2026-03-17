@@ -4,7 +4,7 @@
 |---|---|---|
 | Domain join | sssd | https://samba.tranquil.it/doc/fr/samba_config_client-client_join_clients_linux.html |
 | BitLocker | lvm + LUKS (backup key in AD `msFVE-RecoveryInformation` via script) | 
-| LAPS | automatic password rotation script + write to AD | https://wapt.tranquil.it/store/fr/tis-laps-by-wapt (todo write ad) |
+| LAPS | automatic password rotation script + write to AD | https://wapt.tranquil.it/store/fr/tis-laps |
 | Network drive (non-admin) | smbnetfs | https://doc.ubuntu-fr.org/smbnetfs |
 | RDP | xrdp / RustDesk | https://doc.ubuntu-fr.org/xrdp |
 | Certificate enrollment | CEP/CES openSUSE (todo: TPM attestation) | https://github.com/openSUSE/cepces |
