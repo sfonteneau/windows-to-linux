@@ -11,3 +11,4 @@
 | SRP / AppLocker | fapolicyd / AppArmor | |
 | Smartcard login (PKINIT) | wapt package | https://wapt.tranquil.it/store/fr/tis-sssd-pkinit
 | Printer connect (non-admin) | not found |
+| RSAT | OpenRsat | https://github.com/tranquilit/OpenRSAT/releases
